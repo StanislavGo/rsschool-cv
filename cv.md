@@ -12,3 +12,11 @@ I have been studying IT development for more than 9 months and I like it so much
 Now I am working on my skills, so I will become Full Stack developer and I will be able to make bigger projects. I improve my skills everyday, I learn nearby 6-7 hours everyday.
 
 Also I want to bring something usefull in our World, and I will.
+
+# Skills
+
+* HTML, CSS/SCSS
+* JS/TS, JQuery, JSON, OOP
+* GIT, GitHub
+* Gulp, Webpack
+* PHP, SQL, DOM, REST API
