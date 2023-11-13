@@ -56,4 +56,4 @@ const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
 # Languages
 
 * Ukraine - native language.
-* English - B2.
+* English - B2 (I had visited English speaking club with a native speaker from USA for more than 4 months. I have been visiting English learning club for more than 6 months, and still doing it).
