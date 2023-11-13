@@ -2,7 +2,7 @@
 
 Name - Stanislav Gorokh  
 LinkedIn - [LinkedIn](https://www.linkedin.com/in/stanislav-gorokh-a80a4328a/)  
-Instagram - [Instagram](https://www.instagram.com/stanisiav.go/)  
+Instagram - [Instagram](https://www.instagram.com/sstanisiav.g/)  
 email - gorokht6mail.ru@gmail.com
 
 # Summary
