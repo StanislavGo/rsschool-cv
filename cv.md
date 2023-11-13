@@ -47,3 +47,8 @@ const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
 * [Images API app](https://github.com/StanislavGo/Images-API)
 * [Lemon Site](https://github.com/StanislavGo/Lemon-Juice-Site)
 
+# Education
+
+* RS School pre Front-End course (HTML, CSS, JS, JSON, Page Layout, GIT).
+* Course from IT-Banda (HTML, CSS/SCSS, JS/TS, PHP, SQL, Gulp, Page Layout, GIT).
+* Front-End course from EPAM (HTML, CSS, JS, OOP, GIT).
