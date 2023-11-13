@@ -52,3 +52,8 @@ const zeroFuel = (distanceToPump, mpg, fuelLeft) => {
 * RS School pre Front-End course (HTML, CSS, JS, JSON, Page Layout, GIT).
 * Course from IT-Banda (HTML, CSS/SCSS, JS/TS, PHP, SQL, Gulp, Page Layout, GIT).
 * Front-End course from EPAM (HTML, CSS, JS, OOP, GIT).
+
+# Languages
+
+* Ukraine - native language.
+* English - B2.
