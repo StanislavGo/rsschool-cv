@@ -142,7 +142,21 @@ code span {
   color: #eee;
 }
 
+.right-side .block a {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+}
 
+.right-side .block li {
+  margin-bottom: 8px;
+}
+
+.right-side .block a:hover {
+  color: brown;
+  transition: all .4s ease-out;
+  font-size: 15px;
+}
 
 
 footer {
