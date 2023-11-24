@@ -24,9 +24,10 @@ header img {
   padding-top: 30px;
 }
 
-.header__block h2 {
+.header__block h1 {
   text-align: center;
   font-family: system-ui;
+  font-size: 30px;
 }
 
 nav ul li {
@@ -36,7 +37,6 @@ nav ul li {
 .header__block nav {
   width: 450px;
   margin: 20px auto;
-  padding-bottom: 20px;
 }
 
 .header__block nav ul {
@@ -73,5 +73,43 @@ nav ul li a:hover {
 }
 
 .contacts ul li {
-  margin-bottom: 6px;
+  margin-bottom: 8px;
+}
+
+main {
+  display: flex;
+  width: 85%;
+  margin: 0 auto;
+}
+
+main .left-side {
+  width: 35%;
+}
+
+main .right-side {
+  width: 65%;
+}
+
+.left-side .block h2,
+.left-side .contacts h2 {
+  margin-bottom: 20px;
+  margin-top: 10px;
+  font-size: 22px;
+}
+
+.left-side .contacts h2 {
+  margin-top: 0;
+}
+
+.left-side .block ul li {
+  margin-bottom: 8px;
+  font-size: 15px;
+}
+
+.left-side .block {
+  margin-top: 60px;
+}
+
+#languages {
+  margin-bottom: 45px;
 }
