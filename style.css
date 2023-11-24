@@ -1,0 +1,185 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  background: rgb(219, 219, 219);
+  font-family: monospace;
+}
+
+.main-block {
+  width: 80%;
+  margin: 40px auto;
+  background: rgb(255, 252, 245);
+  border-radius: 15px;
+  box-shadow: 4px 4px 50px black;
+}
+
+header img {
+  width: 265px;
+  border-radius: 50%;
+  display: block;
+  margin: 20px auto;
+  padding-top: 30px;
+}
+
+.header__block h1 {
+  text-align: center;
+  font-family: system-ui;
+  font-size: 30px;
+}
+
+nav ul li {
+  display: inline;
+}
+
+.header__block nav {
+  width: 450px;
+  margin: 20px auto;
+}
+
+.header__block nav ul {
+  display: flex;
+  justify-content: space-between;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: black;
+  font-size: 17px;
+}
+
+ul {
+  display: inline;
+  list-style-type: none;
+}
+
+.contacts {
+  width: 350px;
+  margin: 30px auto;
+  font-size: 15px;
+}
+
+.contacts a {
+  text-decoration: none;
+  color: black;
+}
+
+.contacts a:hover,
+nav ul li a:hover {
+  color: brown;
+  transition: all .4s ease-out;
+}
+
+.contacts ul li {
+  margin-bottom: 8px;
+}
+
+main {
+  display: flex;
+  width: 85%;
+  margin: 0 auto;
+}
+
+main .left-side {
+  width: 35%;
+}
+
+main .right-side {
+  width: 65%;
+}
+
+.left-side .block h2,
+.left-side .contacts h2,
+.right-side .block h2 {
+  margin-bottom: 20px;
+  margin-top: 10px;
+  font-size: 22px;
+  color: rgb(0, 105, 126);
+}
+
+.left-side .contacts h2 {
+  margin-top: 0;
+  color: rgb(0, 105, 126);
+}
+
+.left-side .block ul li {
+  margin-bottom: 8px;
+  font-size: 15px;
+}
+
+.left-side .block {
+  margin-top: 60px;
+}
+
+#languages {
+  margin-bottom: 60px;
+}
+
+.right-side .block h2 {
+  margin: 30px auto;
+  margin-bottom: 20px;
+}
+
+.right-side .block p {
+  margin-bottom: 10px;
+  line-height: 1.5;
+  font-size: 15px;
+}
+
+code {
+  background-color: #eee;
+  border-radius: 3px;
+  font-family: courier, monospace;
+  padding: 0 3px;
+  width: 100%;
+  display: block;
+  padding: 15px;
+}
+
+code span {
+  color: #eee;
+}
+
+.right-side .block a {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+}
+
+.right-side .block li {
+  margin-bottom: 8px;
+  font-size: 15px;
+}
+
+.right-side .block a:hover {
+  color: brown;
+  transition: all .4s ease-out;
+  font-size: 15px;
+}
+
+
+footer {
+  width: 100%;
+  height: 100px;
+  background: black;
+  border-radius: 15px;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  box-shadow: 4px 20px 50px black;
+  margin-top: 40px;
+}
+
+.footer__block {
+  width: 85%;
+  display: flex;
+  margin: 0 auto;
+  align-items: center;
+  height: 100%;
+  justify-content: space-between;
+}
+
+#github-photo {
+  width: 70px;
+}
