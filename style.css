@@ -91,7 +91,8 @@ main .right-side {
 }
 
 .left-side .block h2,
-.left-side .contacts h2 {
+.left-side .contacts h2,
+.right-side .block h2 {
   margin-bottom: 20px;
   margin-top: 10px;
   font-size: 22px;
@@ -116,8 +117,30 @@ main .right-side {
   margin-bottom: 60px;
 }
 
+.right-side .block h2 {
+  margin: 30px auto;
+  margin-bottom: 20px;
+}
 
+.right-side .block p {
+  margin-bottom: 10px;
+  line-height: 1.5;
+  font-size: 15px;
+}
 
+code {
+  background-color: #eee;
+  border-radius: 3px;
+  font-family: courier, monospace;
+  padding: 0 3px;
+  width: 100%;
+  display: block;
+  padding: 15px;
+}
+
+code span {
+  color: #eee;
+}
 
 
 
