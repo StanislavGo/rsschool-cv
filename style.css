@@ -150,6 +150,7 @@ code span {
 
 .right-side .block li {
   margin-bottom: 8px;
+  font-size: 15px;
 }
 
 .right-side .block a:hover {
@@ -167,6 +168,7 @@ footer {
   border-top-left-radius: 0;
   border-top-right-radius: 0;
   box-shadow: 4px 20px 50px black;
+  margin-top: 40px;
 }
 
 .footer__block {
